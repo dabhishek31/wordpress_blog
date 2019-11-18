@@ -1,0 +1,540 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Trooper Lite\n"
+"POT-Creation-Date: 2018-05-06 23:16-0500\n"
+"PO-Revision-Date: 2018-05-06 23:15-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14 template-parts/content-none.php:18
+msgid "404"
+msgstr "404"
+
+#: 404.php:15
+msgid "Page Not Found!"
+msgstr "Page Not Found!"
+
+#: 404.php:16
+msgid ""
+"Sorry, we could not find that page for some odd reason. Perhaps searching "
+"down below will help you find it next time around."
+msgstr ""
+"Sorry, we could not find that page for some odd reason. Perhaps searching "
+"down below will help you find it next time around."
+
+#. translators: 1: title.
+#: comments.php:38
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "One thought on &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:44
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: functions/customizer.php:18
+msgid "General settings"
+msgstr "General settings"
+
+#: functions/customizer.php:19 functions/customizer.php:74
+msgid "You can configure your general theme settings here"
+msgstr "You can configure your general theme settings here"
+
+#: functions/customizer.php:29
+msgid "Avatar"
+msgstr "Avatar"
+
+#: functions/customizer.php:30
+msgid "Please upload your avatar, recommended size should be between 250x250"
+msgstr "Please upload your avatar, recommended size should be between 250x250"
+
+#: functions/customizer.php:40
+msgid "Personal Avatar"
+msgstr "Personal Avatar"
+
+#: functions/customizer.php:51
+msgid "Personal Name"
+msgstr "Personal Name"
+
+#: functions/customizer.php:52
+msgid "What name would you like to display?"
+msgstr "What name would you like to display?"
+
+#: functions/customizer.php:62
+msgid "Short Bio."
+msgstr "Short Bio."
+
+#: functions/customizer.php:63
+msgid "Something cool about you?"
+msgstr "Something cool about you?"
+
+#: functions/customizer.php:73
+msgid "Theme Colors"
+msgstr "Theme Colors"
+
+#: functions/customizer.php:82
+msgid "Main Sidebar Colors"
+msgstr "Main Sidebar Colors"
+
+#: functions/customizer.php:83
+msgid "Set website theme color"
+msgstr "Set website theme color"
+
+#: functions/customizer.php:93
+msgid "Sidebar Color"
+msgstr "Sidebar Color"
+
+#: functions/customizer.php:105
+msgid "Sidebar Border Color"
+msgstr "Sidebar Border Color"
+
+#: functions/customizer.php:117
+msgid "Sidebar Icons Color"
+msgstr "Sidebar Icons Color"
+
+#: functions/customizer.php:129
+msgid "Sidebar Bio & Footer Text Color"
+msgstr "Sidebar Bio & Footer Text Color"
+
+#: functions/customizer.php:140
+msgid "Widget Sidebar Colors"
+msgstr "Widget Sidebar Colors"
+
+#: functions/customizer.php:141
+msgid "Set widget sidebar colors"
+msgstr "Set widget sidebar colors"
+
+#: functions/customizer.php:151
+msgid "Widget sidebar background color"
+msgstr "Widget sidebar background color"
+
+#: functions/customizer.php:163
+msgid "Widget Header sidebar color"
+msgstr "Widget Header sidebar color"
+
+#: functions/customizer.php:175
+msgid "Widget Sidebar anchor color"
+msgstr "Widget Sidebar anchor color"
+
+#: functions/customizer.php:187
+msgid "Widget Sidebar text color"
+msgstr "Widget Sidebar text color"
+
+#: functions/customizer.php:198
+msgid "Link Colors"
+msgstr "Link Colors"
+
+#: functions/customizer.php:199
+msgid "Change the general color for your site block-quotes, links,etc."
+msgstr "Change the general color for your site block-quotes, links,etc."
+
+#: functions/customizer.php:209
+msgid "General Color"
+msgstr "General Color"
+
+#: functions/customizer.php:221
+msgid "Menu Style"
+msgstr "Menu Style"
+
+#: functions/customizer.php:222
+msgid "Select a menu layout style"
+msgstr "Select a menu layout style"
+
+#: functions/customizer.php:232
+msgid "Menu Transitions"
+msgstr "Menu Transitions"
+
+#: functions/customizer.php:247
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions/customizer.php:248
+msgid "Footer copyright text."
+msgstr "Footer copyright text."
+
+#: functions/customizer.php:268
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: functions/customizer.php:269
+msgid "Add custom css code."
+msgstr "Add custom css code."
+
+#: functions/customizer.php:289
+msgid "Scripts"
+msgstr "Scripts"
+
+#: functions/customizer.php:290
+msgid "Add all scripts here."
+msgstr "Add all scripts here."
+
+#: functions/customizer.php:310
+msgid "Pagination"
+msgstr "Pagination"
+
+#: functions/customizer.php:311
+msgid "Choose a type of pagination."
+msgstr "Choose a type of pagination."
+
+#: functions/customizer.php:339
+msgid "Social Networks"
+msgstr "Social Networks"
+
+#: functions/customizer.php:340
+msgid "You can configure your theme side-menu settings here."
+msgstr "You can configure your theme side-menu settings here."
+
+#: functions/customizer.php:351
+msgid "Social Media"
+msgstr "Social Media"
+
+#: functions/customizer.php:352 functions/customizer.php:377
+msgid "You can configure your themes social media settings here."
+msgstr "You can configure your themes social media settings here."
+
+#: functions/customizer.php:362
+msgid "Page Title"
+msgstr "Page Title"
+
+#: functions/customizer.php:363
+msgid "Set the page title that is displayed on the 404 Error Page."
+msgstr "Set the page title that is displayed on the 404 Error Page."
+
+#: functions/customizer.php:376
+msgid "Post Options"
+msgstr "Post Options"
+
+#: functions/customizer.php:386
+msgid "Standard Post"
+msgstr "Standard Post"
+
+#: functions/customizer.php:387
+msgid "Manage Standard Post Options."
+msgstr "Manage Standard Post Options."
+
+#: functions/customizer.php:397 functions/customizer.php:468
+#: functions/customizer.php:538 functions/customizer.php:609
+#: functions/customizer.php:679
+msgid "Background Color"
+msgstr "Background Color"
+
+#: functions/customizer.php:409 functions/customizer.php:480
+#: functions/customizer.php:550 functions/customizer.php:621
+#: functions/customizer.php:691
+msgid "Background Pattern"
+msgstr "Background Pattern"
+
+#: functions/customizer.php:420 functions/customizer.php:491
+#: functions/customizer.php:561 functions/customizer.php:632
+#: functions/customizer.php:718
+msgid "Hide Post Title"
+msgstr "Hide Post Title"
+
+#: functions/customizer.php:431 functions/customizer.php:502
+#: functions/customizer.php:573 functions/customizer.php:643
+#: functions/customizer.php:729
+msgid "Text Color"
+msgstr "Text Color"
+
+#: functions/customizer.php:443 functions/customizer.php:514
+#: functions/customizer.php:585 functions/customizer.php:655
+#: functions/customizer.php:741
+msgid "Link Color"
+msgstr "Link Color"
+
+#: functions/customizer.php:456
+msgid "Video Post"
+msgstr "Video Post"
+
+#: functions/customizer.php:457
+msgid "Manage Video Post Options."
+msgstr "Manage Video Post Options."
+
+#: functions/customizer.php:527
+msgid "Audio Post"
+msgstr "Audio Post"
+
+#: functions/customizer.php:528
+msgid "Manage Audio Post Options."
+msgstr "Manage Audio Post Options."
+
+#: functions/customizer.php:598
+msgid "Quote Post"
+msgstr "Quote Post"
+
+#: functions/customizer.php:599
+msgid "Manage Quote Post Options."
+msgstr "Manage Quote Post Options."
+
+#: functions/customizer.php:668
+msgid "Gallery Post"
+msgstr "Gallery Post"
+
+#: functions/customizer.php:669
+msgid "Manage Gallery Post Options."
+msgstr "Manage Gallery Post Options."
+
+#: functions/customizer.php:708
+msgid "Image grid layout"
+msgstr "Image grid layout"
+
+#: functions/customizer.php:754 inc/misc/sidebar-main.php:60
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions/customizer.php:755
+msgid "Twitter URL for your menu social icon."
+msgstr "Twitter URL for your menu social icon."
+
+#: functions/customizer.php:776 inc/misc/sidebar-main.php:62
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions/customizer.php:777
+msgid "Facebook URL for your menu social icon."
+msgstr "Facebook URL for your menu social icon."
+
+#: functions/customizer.php:798 inc/misc/sidebar-main.php:64
+msgid "Google+"
+msgstr "Google+"
+
+#: functions/customizer.php:799
+msgid "Google+ URL for your menu social icon."
+msgstr "Google+ URL for your menu social icon."
+
+#: functions/customizer.php:820 inc/misc/sidebar-main.php:66
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: functions/customizer.php:821
+msgid "Pinterest URL for your menu social icon."
+msgstr "Pinterest URL for your menu social icon."
+
+#: functions/customizer.php:842 inc/misc/sidebar-main.php:68
+msgid "Instagram"
+msgstr "Instagram"
+
+#: functions/customizer.php:843
+msgid "Instagram URL for your menu social icon."
+msgstr "Instagram URL for your menu social icon."
+
+#: functions/customizer.php:864 inc/misc/sidebar-main.php:70
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: functions/customizer.php:865
+msgid "Vimeo URL for your menu social icon."
+msgstr "Vimeo URL for your menu social icon."
+
+#: functions/customizer.php:886 inc/misc/sidebar-main.php:72
+msgid "Flickr"
+msgstr "Flickr"
+
+#: functions/customizer.php:887
+msgid "Flicker URL for your menu social icon."
+msgstr "Flicker URL for your menu social icon."
+
+#: functions/customizer.php:908 inc/misc/sidebar-main.php:74
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: functions/customizer.php:909
+msgid "Soundcloud URL for your menu social icon."
+msgstr "Soundcloud URL for your menu social icon."
+
+#: functions/customizer.php:930 inc/misc/sidebar-main.php:76
+msgid "Youtube"
+msgstr "Youtube"
+
+#: functions/customizer.php:931
+msgid "Youtube URL for your menu social icon."
+msgstr "Youtube URL for your menu social icon."
+
+#: functions/customizer.php:952 inc/misc/sidebar-main.php:78
+msgid "Twitch"
+msgstr "Twitch"
+
+#: functions/customizer.php:953
+msgid "Twitch URL for your menu social icon."
+msgstr "Twitch URL for your menu social icon."
+
+#: functions/customizer.php:974 inc/misc/sidebar-main.php:80
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: functions/customizer.php:975
+msgid "Linkedin URL for your menu social icon."
+msgstr "Linkedin URL for your menu social icon."
+
+#: functions/customizer.php:996 inc/misc/sidebar-main.php:82
+msgid "Stackoverflow"
+msgstr "Stackoverflow"
+
+#: functions/customizer.php:997
+msgid "Stackoverflow URL for your menu social icon."
+msgstr "Stackoverflow URL for your menu social icon."
+
+#: functions/customizer.php:1017
+msgid "Manager"
+msgstr "Manager"
+
+#: functions/customizer.php:1018
+msgid "What kind of icons would you like to display in the left sidebar?"
+msgstr "What kind of icons would you like to display in the left sidebar?"
+
+#: inc/misc/share.php:35
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+#: inc/misc/share.php:42
+msgid "Tweet It"
+msgstr "Tweet It"
+
+#: inc/misc/share.php:49
+msgid "Share on Google Plus"
+msgstr "Share on Google Plus"
+
+#: inc/misc/share.php:56
+msgid "Pin It"
+msgstr "Pin It"
+
+#: inc/misc/share.php:63
+msgid "Share on LinkedIn"
+msgstr "Share on LinkedIn"
+
+#: inc/misc/sidebar-main.php:52
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: inc/misc/sidebar-main.php:116
+#, php-format
+msgid ""
+"&copy; %s %s. Theme by <a href=\"%s\" title=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+"&copy; %s %s. Theme by <a href=\"%s\" title=\"%s\" target=\"_blank\">%s</a>"
+
+#: inc/misc/sidebar-main.php:116
+msgid "Premium Wordpress Themes"
+msgstr "Premium Wordpress Themes"
+
+#: inc/misc/sidebar-main.php:116
+msgid "RadarThemes"
+msgstr "RadarThemes"
+
+#: inc/misc/template-core.php:131
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+
+#: inc/misc/template-core.php:136
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/misc/template-core.php:143
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/misc/template-core.php:148
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: inc/misc/widgets.php:15
+msgid "Panel Area"
+msgstr "Panel Area"
+
+#: searchform.php:39
+msgid "Type here for search..."
+msgstr "Type here for search..."
+
+#: sidebar.php:34
+msgid "This is a widget ready area. Add some and they will appear here."
+msgstr "This is a widget ready area. Add some and they will appear here."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: single.php:39 template-parts/content.php:36
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: single.php:56 template-parts/content-page.php:28
+#: template-parts/content.php:47
+msgid "Pages:"
+msgstr "Pages:"
+
+#: single.php:93
+msgid "Previous Post:"
+msgstr "Previous Post:"
+
+#: single.php:98
+msgid "Next Post:"
+msgstr "Next Post:"
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: template-parts/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+
+#: template-parts/content.php:59
+msgid "Read More"
+msgstr "Read More"
+
+#. Theme Name of the plugin/theme
+msgid "Trooper Lite"
+msgstr "Trooper Lite"
+
+#. Theme URI of the plugin/theme
+msgid "https://demo.radarthemes.com/trooper"
+msgstr "https://demo.radarthemes.com/trooper"
+
+#. Description of the plugin/theme
+msgid "Professional personal blogging theme"
+msgstr "Professional personal blogging theme"
+
+#. Author of the plugin/theme
+msgid "Radar Themes"
+msgstr "Radar Themes"
+
+#. Author URI of the plugin/theme
+msgid "https://radarthemes.com"
+msgstr "https://radarthemes.com"
